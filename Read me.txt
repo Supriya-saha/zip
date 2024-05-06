@@ -1,0 +1,4 @@
+1. Install Java on your device.
+2. Run the java programs and enter the path of the file.
+
+I have included a txt file named original of 24mb, a pretty massive text file.
